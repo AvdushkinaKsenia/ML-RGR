@@ -3,6 +3,5 @@ scikit-learn
 pandas
 matplotlib
 seaborn
-tensorflow
 catboost
 streamlit
